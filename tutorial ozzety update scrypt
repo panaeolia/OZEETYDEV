@@ -1,0 +1,8 @@
+sudo apt-get install unzip
+sudo wget wget https://github.com/the-coinmaker/oztg-v1003/archive/master.zip
+sudo unzip master.zip
+cd oztg-v1003-master
+mv * /root
+cd 
+sudo chmod 777 *
+./update-ozeety-v1.0.0.3.sh
