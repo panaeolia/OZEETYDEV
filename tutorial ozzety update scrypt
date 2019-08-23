@@ -1,5 +1,5 @@
 sudo apt-get install unzip
-sudo wget wget https://github.com/the-coinmaker/oztg-v1003/archive/master.zip
+sudo wget https://github.com/FLASHMONILTD/OZEETY-MASTERNODE/raw/master/oztg-v1003-master.zip
 sudo unzip master.zip
 cd oztg-v1003-master
 mv * /root
