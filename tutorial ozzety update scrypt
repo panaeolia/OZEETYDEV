@@ -1,6 +1,6 @@
 sudo apt-get install unzip
 sudo wget https://github.com/FLASHMONILTD/OZEETY-MASTERNODE/raw/master/oztg-v1003-master.zip
-sudo unzip master.zip
+sudo unzip oztg-v1003-master.zip
 cd oztg-v1003-master
 mv * /root
 cd 
